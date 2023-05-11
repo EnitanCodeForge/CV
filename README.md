@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Python-orange?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-blue?style=flat-square&logo=powerbi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R Programming-green?style=flat-square&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R Programming-darkgreen?style=flat-square&logo=r&logoColor=white"/>
   <br/>
   <img src="https://img.shields.io/badge/MySQL-red?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-FA7343?style=flat-square&logo=visualstudio&logoColor=white"/>
