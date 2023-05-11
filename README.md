@@ -12,16 +12,17 @@
 
 [<img align="left" alt="enitanOgungbemi  | LinkedIn" width="27px" src="https://img.icons8.com/nolan/27/linkedin.png" />][linkedin]
 [<img align="left" alt="enitanogungbemi | Telegram" width="27px" src="https://img.icons8.com/nolan/27/telegram-app.png" />][telegram]
+[<img align="left" alt="ogungbemi.enitan@gmail.com | Email" width="27px" src="https://img.icons8.com/nolan/27/email.png" />][email]
 
 <br />
 
-## TOOLS
+## Tech Stack
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-orange?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-blue?style=flat-square&logo=powerbi&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-Programming-blue?style=flat-square&logo=r&logoColor=white"/>
- <br/>
+  <br/>
   <img src="https://img.shields.io/badge/MySQL-red?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio-FA7343?style=flat-square&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableu-9cf?style=flat-square&logo=tableau&logoColor=white"/>
@@ -36,3 +37,5 @@
 [website]: https://enitan.ogungbemi.com/
 [linkedin]: https://www.linkedin.com/in/ogungbemi-enitan-0a6442129/
 [telegram]: https://t.me/Eogungbemi
+[email]: https://mailto:ogungbemi.enitan@gmail.com 
+
