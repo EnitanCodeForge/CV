@@ -37,5 +37,5 @@
 [website]: https://enitan.ogungbemi.com/
 [linkedin]: https://www.linkedin.com/in/ogungbemi-enitan-0a6442129/
 [telegram]: https://t.me/Eogungbemi
-[email]: https://mailto:ogungbemi.enitan@gmail.com 
+[email]: mailto:ogungbemi.enitan@gmail.com 
 
