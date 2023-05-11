@@ -16,7 +16,7 @@
 
 <br />
 
-## Tech Stack
+## Tools
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-orange?style=flat-square&logo=python&logoColor=white"/>
